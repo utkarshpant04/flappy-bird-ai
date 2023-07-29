@@ -1,2 +1,0 @@
-change the model to a simple linear model without neural networks or pytorch.
-and another parmeter action value in and build the model similarto the model in rl by the book.
