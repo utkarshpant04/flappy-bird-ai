@@ -1,5 +1,5 @@
 # Flappy-Bird-AI
-![Flappy Bird AI](images/flappy_bird_ai.png)
+![Flappy Bird AI](images/flappy_bird_ai.jpg)
 
 ## Table of Contents
 
