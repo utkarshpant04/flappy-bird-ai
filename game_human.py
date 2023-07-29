@@ -141,7 +141,6 @@ class Game:
                         self.bird.jump()
 
             self.bird.move()
-            print(self.bird.v)
             rem = []
             add_pipe = False
             for pipe in self.pipes:
